@@ -161,6 +161,4 @@ traeTest/
 - Pinia - 状态管理
 - Axios - HTTP客户端
 
-## 许可证
 
-本项目仅供学习和研究使用。
